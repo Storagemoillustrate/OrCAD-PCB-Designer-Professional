@@ -1,0 +1,23 @@
+{
+  "repo": "orcad-pcb-designer-professional",
+  "product": "OrCAD PCB Designer Professional",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "pcb",
+  "topics": [
+    "orcad-pcb",
+    "schematic-capture-desk",
+    "drc-gerber-windows",
+    "orcad-2026",
+    "how-to-install-orcad",
+    "orcad-desktop-package",
+    "plane-route-suite",
+    "symbol-net-tools",
+    "pcb-designer-complete",
+    "orcad-professional"
+  ],
+  "site": "toolix.me"
+}
